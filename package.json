@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ecorichman/typscript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/ecorichman/typscript-for-javascript-developers#readme"
+  "homepage": "https://github.com/ecorichman/typscript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
